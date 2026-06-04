@@ -81,7 +81,7 @@ export const SKIN_PACKAGES: SkinPackage[] = [
     price: 699, 
     currency: 'INR', 
     category: 'material',
-    image: '/skins/skin-material.png'
+    image: '/skins/skin-akm-glacier.png'
   },
   { 
     id: 'item-spray-paint-600', 
