@@ -65,7 +65,7 @@
   }
 
   .text-glow-primary {
-    text-shadow: 0 0 10px oklch(from var(--primary) l c h / 0.5);
+    text-shadow: 0 0 10px rgba(250, 204, 21, 0.5);
   }
 
   .golden-header {
